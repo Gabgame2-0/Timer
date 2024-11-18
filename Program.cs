@@ -6,7 +6,8 @@ namespace Timer
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("All is Ok");
+            //code beginning
+            Console.WriteLine("All is Ok and none");
         }
     }
 }
